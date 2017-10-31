@@ -1,0 +1,35 @@
+.standardimage
+{
+    height:180px;
+    /*margin-right:1%;*/
+    width: 95%;
+    /*height: auto;*/
+    float: left;
+    margin: 0 0 0 15px;
+
+
+}
+
+body
+{
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+    font-family: 'Rozha One', serif;
+
+}
+
+.rozhaone
+{
+    font-family: 'Rozha One', serif;
+}
+
+h1 {
+    font-family: 'Rozha One', serif;
+    text-align: center;
+    font-size: 200px;
+}
+
+
+.bold
+{
+    font-weight: bold;
+}
